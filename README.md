@@ -13,5 +13,3 @@ https://developer-store-e-commerce.netlify.app/
 - Calculating the sum of Shopping Cart
 - Adding Items to Favorite and Remove
 - Item Details Page
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-graduation-ecommerce-project)
